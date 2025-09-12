@@ -1,5 +1,8 @@
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
+NAME: Mohanaprabha S
+REGISTER NO: 212224040197
+DATE:11.09.25
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
@@ -45,29 +48,38 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+<img width="1187" height="787" alt="Screenshot 2025-09-11 105406" src="https://github.com/user-attachments/assets/6b755dc7-950a-49a4-a7d5-c54d368d4c10" />
 
 
 b.  KCL:
+
+<img width="1321" height="755" alt="Screenshot 2025-09-11 104024" src="https://github.com/user-attachments/assets/f6a92622-ca64-49da-bca8-eb1e44d0c9a5" />
+
  
 
 Calculation:
 
 a.   KVL:
- 
+
+ <img width="647" height="904" alt="image" src="https://github.com/user-attachments/assets/9302df40-d935-4845-983b-788b921170dd" />
+
 
 
 b.  KCL:
 
-
+<img width="649" height="919" alt="image" src="https://github.com/user-attachments/assets/713002d7-11e5-413d-8ca2-6ec9ee7cc999" />
 
 
 Tabulation:
 
 a.   KVL:
  
+<img width="486" height="689" alt="image" src="https://github.com/user-attachments/assets/51bdf2f8-491d-4a5a-ad31-e916c4962baa" />
 
 
 b.  KCL:
+
+<img width="487" height="699" alt="image" src="https://github.com/user-attachments/assets/539cecb2-ecff-4254-b957-a8740da7d40a" />
 
 
 
