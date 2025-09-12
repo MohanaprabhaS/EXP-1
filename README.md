@@ -7,6 +7,7 @@ NAME: Mohanaprabha S
 REGISTER NO: 212224040197
 
 DATE:11.09.25
+
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
