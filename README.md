@@ -58,6 +58,8 @@ b.  KCL:
 <img width="1321" height="755" alt="Screenshot 2025-09-11 104024" src="https://github.com/user-attachments/assets/f6a92622-ca64-49da-bca8-eb1e44d0c9a5" />
 
 
+
+
 <img width="567" height="913" alt="image" src="https://github.com/user-attachments/assets/f2dbafb7-cd21-4a70-b9ba-44927e5cab70" />
 
 <img width="598" height="907" alt="image" src="https://github.com/user-attachments/assets/2e8466cc-27a6-4fa0-8afd-11143e05a343" />
